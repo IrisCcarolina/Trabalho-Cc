@@ -5,8 +5,8 @@ Projeto criado conforme necessidadades dos estudos acadêmicos.
 </p>
 
 <p align="center">
-  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 
@@ -16,15 +16,15 @@ Projeto criado conforme necessidadades dos estudos acadêmicos.
 
 <br>
 
-## 🚀 Technologies
+## 🚀 Tecnologias
 
 Desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - Git e Github
 
-## 💻 Project
-Trata-se de uma página WEB com mais detalhes sobre informações de contato e experiência profissional, além de conter os dados do meu Portfólio pessoal. 
+## 💻 Projeto
+Trata-se de uma página WEB com informações de contato e experiência profissional, além de conter os dados do meu Portfólio pessoal. 
 
 ## :memo: License
 
