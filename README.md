@@ -7,7 +7,7 @@ Projeto criado conforme necessidadades dos estudos acadêmicos.
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#memo-license">Licença</a>
 </p>
 
 <p align="center">
@@ -26,9 +26,10 @@ Desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 Trata-se de uma página WEB com informações de contato e experiência profissional, além de conter os dados do meu Portfólio pessoal. 
 
-## :memo: License
+## :memo: Licença
 
 MIT license.
+
 
 ---
 
